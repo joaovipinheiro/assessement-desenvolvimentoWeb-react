@@ -105,10 +105,6 @@ form select {
   border-radius: 5px;
 }
 
-form input[type="datetime-local"] {
-  width: calc(100% - 20px); /
-}
-
 form span {
   color: red;
   font-size: 14px;
